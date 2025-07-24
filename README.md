@@ -79,11 +79,11 @@ A/B 테스트 설계를 통해 이탈 방지를 위한 전략 수립 가능성�
 ---
 
 ## 📌 폴더 구조 예시
-
+```
 📁 Final_Project
 │
 ├── 📜 CreditCard_A/BTest_Project.ipynb # 전체 분석 코드
 ├── 📜 README.md # 프로젝트 소개 문서
-
+```
 
 ---
